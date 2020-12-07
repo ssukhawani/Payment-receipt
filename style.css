@@ -1,13 +1,13 @@
 
 body{
-    background-color: whitesmoke;
+    background-color:#b3b3b3;
 }
 
 .container {
     background-color: white;
     margin: 80px auto;
     max-width: 400px;
-    box-shadow: 10px 10px 10px -8px #b3b3b3;
+    box-shadow: 10px 10px 10px -8px #494949;
     border: 2px solid black;
     border-radius: 10px;
     border-left: none;
